@@ -14,3 +14,5 @@ Instruções de instalação:
 2. Dentro de C:\Program Files (x86)\Steam\steamapps\common\REPO\BepInEx\config, abra o arquivo com.github.qert2002.REPO_Translator e mude TranslatorDevModeEnabled para True, isso habilitará que o mod inicie a extração dos textos do jogo.
 
 Preciso de ajuda nas questões dos textos que o mod não consegue extrair ou alguma outra solução que envolva programação para resolver este problema, agradeço desde já!
+
+Você pode encontrar a página do mod Beplnex em https://github.com/BepInEx/BepInEx
