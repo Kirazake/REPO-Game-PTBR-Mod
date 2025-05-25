@@ -1,0 +1,180 @@
+[Message:   BepInEx] BepInEx 5.4.21.0 - REPO (23/05/2025 20:29:54)
+[Info   :   BepInEx] Running under Unity v2022.3.21.12519882
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.21.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 1 plugins to load
+[Info   :   BepInEx] Loading [REPO_Translator 1.0]
+[Info   :REPO_Translator] Selected Translate: PTBR
+[Info   :REPO_Translator] DEVMODE Translate Enabled?: True
+[Info   :REPO_Translator] TranslateFilePath: C:\Program Files (x86)\Steam\steamapps\common\REPO\BepInEx\plugins\REPO_Translator\Translate_PTBR.xml
+[Error  :REPO_Translator] WARNING: YOU HAVE ENABLED DEVMODE TRANSLATOR, DO NOT EDIT THE TRANSLATE FILE BEFORE TURNING OFF THE GAME!!!!
+[Error  :REPO_Translator] WARNING: YOU HAVE ENABLED DEVMODE TRANSLATOR, DO NOT EDIT THE TRANSLATE FILE BEFORE TURNING OFF THE GAME!!!!
+[Error  :REPO_Translator] WARNING: YOU HAVE ENABLED DEVMODE TRANSLATOR, DO NOT EDIT THE TRANSLATE FILE BEFORE TURNING OFF THE GAME!!!!
+[Error  :REPO_Translator] WARNING: YOU HAVE ENABLED DEVMODE TRANSLATOR, DO NOT EDIT THE TRANSLATE FILE BEFORE TURNING OFF THE GAME!!!!
+[Error  :REPO_Translator] WARNING: YOU HAVE ENABLED DEVMODE TRANSLATOR, DO NOT EDIT THE TRANSLATE FILE BEFORE TURNING OFF THE GAME!!!!
+[Error  :REPO_Translator] WARNING: YOU HAVE ENABLED DEVMODE TRANSLATOR, DO NOT EDIT THE TRANSLATE FILE BEFORE TURNING OFF THE GAME!!!!
+[Error  :REPO_Translator] WARNING: YOU HAVE ENABLED DEVMODE TRANSLATOR, DO NOT EDIT THE TRANSLATE FILE BEFORE TURNING OFF THE GAME!!!!
+[Error  :REPO_Translator] WARNING: YOU HAVE ENABLED DEVMODE TRANSLATOR, DO NOT EDIT THE TRANSLATE FILE BEFORE TURNING OFF THE GAME!!!!
+[Error  :REPO_Translator] WARNING: YOU HAVE ENABLED DEVMODE TRANSLATOR, DO NOT EDIT THE TRANSLATE FILE BEFORE TURNING OFF THE GAME!!!!
+[Error  :REPO_Translator] WARNING: YOU HAVE ENABLED DEVMODE TRANSLATOR, DO NOT EDIT THE TRANSLATE FILE BEFORE TURNING OFF THE GAME!!!!
+[Error  :REPO_Translator] WARNING: YOU HAVE ENABLED DEVMODE TRANSLATOR, DO NOT EDIT THE TRANSLATE FILE BEFORE TURNING OFF THE GAME!!!!
+[Error  :REPO_Translator] WARNING: YOU HAVE ENABLED DEVMODE TRANSLATOR, DO NOT EDIT THE TRANSLATE FILE BEFORE TURNING OFF THE GAME!!!!
+[Error  :REPO_Translator] WARNING: YOU HAVE ENABLED DEVMODE TRANSLATOR, DO NOT EDIT THE TRANSLATE FILE BEFORE TURNING OFF THE GAME!!!!
+[Error  :REPO_Translator] WARNING: YOU HAVE ENABLED DEVMODE TRANSLATOR, DO NOT EDIT THE TRANSLATE FILE BEFORE TURNING OFF THE GAME!!!!
+[Info   :REPO_Translator] Loaded!
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Unity Log] Odin Serializer ArchitectureInfo initialization with defaults (all unaligned read/writes disabled).
+[Info   : Unity Log] Odin Serializer detected whitelisted runtime platform WindowsPlayer and memory read test succeeded; enabling all unaligned memory read/writes.
+[Info   : Unity Log] VERSION: v0.1.2
+[Info   : Unity Log] STEAM ID: 76561198186492129
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Info   : Unity Log] Getting Steam Auth Ticket...
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Info   : Unity Log] Changed level to: Level - Lobby Menu
+[Info   : Unity Log] PunVoiceClientLogic Awake
+[Info   : Unity Log] Created lobby on Network Connect.
+[Info   : Unity Log] Steam: Hosting lobby...
+[Info   : Unity Log] Steam: Lobby created with ID: 109775244150216102
+[Info   : Unity Log] Steam: Lobby entered with ID: 109775244150216102
+[Info   : Unity Log] Steam: Region: 
+[Info   : Unity Log] Sending Steam Auth Ticket...
+[Info   : Unity Log] Getting Steam Auth Ticket...
+[Info   : Unity Log] Connected to Master Server
+[Info   : Unity Log] I am the owner.
+[Info   : Unity Log] Steam: Setting lobby data...
+[Info   : Unity Log] Trying to join room: 109775244150216102
+[Info   : Unity Log] Created room successfully: 109775244150216102
+[Info   : Unity Log] Joined room: 109775244150216102 sa
+[Info   : Unity Log] Game Mode: Multiplayer
+[Info   : Unity Log] NetworkConnect destroyed.
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Info   : Unity Log] [2025-05-24T15:45:35] [Info] [LOGGER] [VoiceLogger] Disabling VoiceLogger duplicates at the scene root.
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Warning: Unity Log] [2025-05-24T15:45:35] [Warning] [PhotonVoiceView] [Voice(Clone)] PhotonVoiceView.RecorderInUse.TransmitEnabled is false, don't forget to set it to true to enable transmission.
+[Info   : Unity Log] Calling OpJoinOrCreateRoom for room name '109775244150216102_voice_' region sa.
+[Info   : Unity Log] Steam: Unlocking lobby...
+[Warning: Unity Log] [2025-05-24T15:45:39] [Warning] [PunVoiceClient] [PunVoiceClient(Clone)] [PV] Frame event for voice #1 of not inited player 1
+[Info   : Unity Log] Leave Photon
+[Info   : Unity Log] Steam: Leaving lobby... and ruining it for others.
+[Info   : Unity Log] Cancelling Steam Auth Ticket...
+[Info   : Unity Log] Disconnected from server for reason DisconnectByClientLogic
+[Info   : Unity Log] Leave to Main Menu
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Info   : Unity Log] Loading save
+[Info   : Unity Log] Changed level to: Level - Wizard
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Info   : Unity Log] Changed level to: Level - Arena
+[Info   : Unity Log] Deleted save file and all backups for 'REPO_SAVE_2025_05_24_12_45_32'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Info   : Unity Log] Changed level to: Level - Manor
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Info   : Unity Log] Changed level to: Level - Arena
+[Info   : Unity Log] Deleted save file and all backups for 'REPO_SAVE_2025_05_24_12_45_32'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Info   : Unity Log] Changed level to: Level - Arctic
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Warning: Unity Log] Save folder not found: C:/Users/Sidinei/AppData/LocalLow/semiwork/REPO/saves/REPO_SAVE_2025_05_24_12_45_32
+[Info   : Unity Log] Cancelling Steam Auth Ticket...
+[Info   : Unity Log] [2025-05-24T15:52:22] [Info] [PunVoiceClient] [PunVoiceClient(Clone)] PunVoiceClient singleton instance is being reset because destroyed.
